@@ -1,5 +1,5 @@
 # ARM Thumb Exercises
-These are **ARM Thumb Assembly Exercises** developed as part of the course "[Arquitectura de Ordenadores](https://secretaria.uvigo.gal/docnet-nuevo/guia_docent/index.php?centre=305&ensenyament=V05G306V01&assignatura=V05G306V01109&any_academic=2020_21)" in the Telecommunications Engineering Degree at the Universidad de Vigo (2020 - 2021).
+These are **ARM Thumb Assembly Exercises** developed as part of the course "[Arquitectura de Ordenadores](https://secretaria.uvigo.gal/docnet-nuevo/guia_docent/?centre=305&ensenyament=V05G301V01&assignatura=V05G301V01109&any_academic=2020_21)" in the Telecommunications Engineering Degree at the Universidad de Vigo (2020 - 2021).
 
 ## About The Project
 These exercises focus on ARM assembly programming, showcasing fundamental low-level programming concepts such as:
